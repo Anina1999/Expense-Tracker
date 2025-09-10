@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Expense Tracker</title>
   <link rel="stylesheet" href="style.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.28/jspdf.plugin.autotable.min.js"></script>
 </head>
   
 <body>
@@ -18,7 +20,10 @@
           <input type="date" id="date" required />
           <button type="submit">Add</button>
         </form>
+
+        <button id="clear-btn" type="button" style="margin-top: 12px;">Clear All</button>
         <div id="total">Total: 0 BGN</div>
+        <button id="download-btn" type="button" style="margin-top: 12px;">Download Expenses</button>
       </div>
       
       <div class="right-panel">
