@@ -34,6 +34,9 @@ Here is an example:
 # NOTICE: 
 In the current screenshot, the date is displayed in Bulgarian because of my browser settings.
 
+# Check out the live version of the app here:  
+[$$$ Expense Tracker – Live $$$](https://anina1999.github.io/Expense-Tracker/)
+
 # LICENSE
 
 This project is open for educational use and personal learning.
