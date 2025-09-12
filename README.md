@@ -36,7 +36,7 @@ In the current screenshot, the date is displayed in Bulgarian because of my brow
 
 # Check out the live version of the app here:  
 
-<a href="https://anina1999.github.io/Expense-Tracker/" target="_blank">$$$ Expense Tracker – Live $$$</a>
+[https://anina1999.github.io/Expense-Tracker/](https://anina1999.github.io/Expense-Tracker/)
 
 # LICENSE
 
